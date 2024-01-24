@@ -23,6 +23,7 @@ const inputboxstyle = StyleSheet.create({
         flex: 1/3,
         justifyContent: 'center',
         alignItems: 'center',
+        flexDirection: 'row',
     },
     picker: {
         width: 150,
@@ -37,6 +38,19 @@ const inputboxstyle = StyleSheet.create({
         backgroundColor: Colors.TextColor,
         margin: 10,
     },
+    flag: {
+        width: 27,
+        height: 27,
+        borderRadius: 30,
+    },
+    dropdown: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        backgroundColor: Colors.Primary,
+        borderRadius: 50,
+        paddingLeft: 10,
+        marginEnd: 10,
+    }
 })
 
 export default inputboxstyle;

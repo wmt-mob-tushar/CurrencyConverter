@@ -1,9 +1,8 @@
-import { View, Text, TextInput, TouchableOpacity } from 'react-native'
+import { View,TouchableOpacity } from 'react-native'
 import React from 'react'
 import displaystyle from './style'
 import { Colors, String } from '../../../utils'
 import Icon from 'react-native-vector-icons/AntDesign'
-import { Select } from 'native-base';
 import useConverter from '../../../apis/useConverter'
 import InputBox from '../../UI/InputBox'
 

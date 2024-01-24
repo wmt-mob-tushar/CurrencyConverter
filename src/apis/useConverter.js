@@ -14,7 +14,7 @@ const useConverter = (endpoint, query) => {
             ...query
         },
         headers: {
-            // 'X-RapidAPI-Key': 'c2638369abmsh2db093f8aa73f3dp1b0094jsnc7e77407bf0a',
+            'X-RapidAPI-Key': 'c2638369abmsh2db093f8aa73f3dp1b0094jsnc7e77407bf0a',
             'X-RapidAPI-Host': 'currency-converter18.p.rapidapi.com'
         }
     };
@@ -35,7 +35,7 @@ const useConverter = (endpoint, query) => {
         }
     }
 
-    console.log(error);
+    
 
     useEffect(() => {
         fetchData()
