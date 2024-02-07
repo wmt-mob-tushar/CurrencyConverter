@@ -1,0 +1,166 @@
+Date:- 06/02/2024
+Internal :
+- Completed API Integration Task using Redux
+- Working on localization and Theme
+
+
+
+
+
+
+
+
+
+
+
+
+
+<==================== Week 2: ====================>
+
+What I Learned :
+- Fragment and Intent
+- Learn navigation in Android ( build an example project using tab navigation )
+- Learn ViewPager2 and Implement swiper screen tab navigation like WhatsApp.
+- Recyclerview
+- Build Todo application using Recyclerview ( Without adding SQLite)
+- Read the blog on responsive design in Android.
+- Learn Basic of Butterknife
+- Read the blog of MVP Architecture and understand how MVP Architecture works
+- Implement a Basic Login Screen project for learning and practicing MVP Architecture.
+- SharedPreference and SQLite ( Add Sqlite crud operation in Recycler View Project)
+- Start implementing the Demo project ( Build Signup screen using MVP Architecture )
+
+Challenges Faced :
+- Butterknife version issue. I solved this issue by reducing the Butterknife version
+- face some errors while building MVP Architecture-based signup form
+
+<================= Week 3: =================>
+
+What I learned : 
+How to structure a project using MVP Architecture
+Learn How to implement SQLite Database in Android apps
+How to manage screen state and pass information between screens using Intents
+How to manage Permissions in Android apps
+Handle REST API using Retrofit2
+
+What I build :
+Build Signup, Login Screen, and Update Profile screen in the Demo project
+Implement a Todo List screen with features like add, delete, update, and filter todo by date
+Restructured the Demo Project to follow MVP architecture
+A Simple user detail screen using retrofit2.
+
+challenges I faced :
+Restructured existing Demo project to MVP Architecture.
+Handle screen navigation using State in Intent.
+Challenged I faced when building responsive UI in the demo project
+Handling Large API Data using Retrofit2
+
+<==================== Week 4: ====================>
+
+What I learned :
+Learning Permissions for Camera, Internet, and Audio Access in Android Applications.
+Learning Retrofit2 and How to Post Data in API.
+Learning ECMAScript and Javascript Concepts and solving given Tasks
+Explored the fundamentals of ReactJS, Including Hooks, State Management, and UI development, and completed assigned challenges.
+Start Learning the Basics of React Native.
+
+What I build :
+Building Simple Camara Application for Learning Permission in Android.
+Build a web application that retrieves and displays user information from an API using AJAX/JS/HTML/CSS.
+Build a Simple Application to show user information fetching data on API using AJAX/JS/HTML/CSS.
+Build React JS UI Application showcasing user details and implementing search functionality through filters.
+Build Binary to Decimal Converter Game using React JS.
+I am working on building a Registration form in React Native.
+
+Challenges I faced:
+The challenge I faced when posting multiple data on API using Retrofit2
+fetch data on dynamic random user API and implement search functionality to search dynamic data.
+Challenged I faced when I learned useMemo hook
+
+<=================== Week 5: ====================>
+
+What I learned : 
+Learned the Basics of JavaScript and ECMAScript.
+Learned a Basic of React JS and Solved a Given Tasks.
+Learned Class-based components and React JS Lifecycle.
+React Js Function-based Components and Hooks.
+Reading Blogs to Enhance My Understanding of Building UI.
+State Management and Project Folder Structure for React and React Native Applications.
+Start Learning Basic of React Native.
+
+What I build :
+Developed a simple Binary Number converter game to understand ECMAScript concepts
+Created UI applications using ReactJS, leveraging Hooks.
+Developed a News Application for understanding concepts of the class-based components and Lifecycle in RN
+Developed a React & RN Application(UI) on a given task 
+
+challenges I faced :
+Optimizing multiple API data in React Application.
+Implementing component-wise code splitting in React Native.
+Java version issue and Node Js issue while building React Native Application
+while building a responsive design for the React Native News Application.
+
+<================= Week 6: ===================>
+
+What I learned :
+
+- Resolving Bugs in React Native Basic UI Tasks.
+- Advanced Class based components and Lifecycle
+- Learned How to integrate REST API in React Native.
+- Learned simple fetch and Promises concepts.
+- Learned Concepts of async/await for resolving Promises.
+- Explored and Learned Axios Library.
+- Explored various debuggers in React Native
+
+What I build :
+
+- Building Authentication Application UI using class components and Resolving Bugs
+- Build a simple API Application for Understanding the concept of Axios and Promises.
+- Performed GET, and POST requests in API Application
+
+Challenges I faced:
+
+- Adding Context API in Class-based components Application, I can solve this issue after getting some research.
+
+<================= Week 7: ==================>
+
+What I Learned and Built:
+
+- I learned React Native Navigation and its different types, including Tab, Stack, and Drawer Navigation.
+- I learned how to configure APIs in React Native applications.
+- Learned and Explored React Native Components.
+- I became familiar with components like FlatList and FlashList for handling large API list data.
+- I built a Currency Converter application using the Currency ConverterRapid API.
+- This application can convert more than 40 country currencies and build a user-friendly and responsive UI.
+- Start working on the Zroomp project, ( Sign Up Screen and Folder Structure Completed)
+
+Challenges I Faced :
+
+- Combining Drawer and Tab Navigation in a single application initially proved challenging, causing some overlapping and crashing. Through research and bug-fixing, I was able to successfully resolve this issue.
+
+<============== Week 8: ============>
+
+What I learned :
+
+- Learned React Native nested navigation and how to use it in the application.
+- Learned Combined Drawer and Tab navigation in React Native.
+- Started learning about Redux and how to use it in the application.
+- Resolving Bugs in Zroomp Application.
+
+What I build :
+
+- Completed Zroomp Application and Resolving Bugs in the application.
+- Build a Demo Application for the React Native nested navigation and how to use it in the application.
+- Built a Demo Application for the Combined Drawer and Tab navigation in React Native.
+- Building Counter Application using Redux.
+- Build a Simple CItyData Application using Redux.
+
+Challenges I faced:
+
+- I faced some challenges while combining drawer and Tab navigation in React Native, but I resolved it by reading the documentation and watching the tutorial.
+- Fetching data from the API and storing it in the Redux store.
+
+
+
+
+
